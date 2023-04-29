@@ -1,5 +1,4 @@
 ---
-author: dimidimots
 layout: timeline 
 title: "VR headset που μπορεί να σκοτώσει"
 image_url: /wikipedia-edit
