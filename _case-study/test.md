@@ -8,3 +8,7 @@ image_url: /VRkill
 caption: VR headset που μπορεί να σκοτώσει
 categories:
   - Αισθητήρας
+  - Χρήστης
+  - Παιχνίδι
+
+---
